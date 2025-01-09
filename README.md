@@ -5,9 +5,9 @@ This application predicts emotions from speech audio files. Below are hosted lin
 You can access the live app [LINK](https://emotiondetector1.streamlit.app/).
 
 ### Home Screen
-![Home Screen](./images/h1.png)
+![Home Screen](./h1.png)
 
 ### Predicted Emotion
-![Predicted Emotion](./images/h2.png)
+![Predicted Emotion](./h2.png)
 
 
